@@ -41,45 +41,48 @@ To deploy this project run
 
 Home Page/Landing Page
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
-Signup Page
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot (78)](https://github.com/user-attachments/assets/64bdbd8d-6c80-4ab1-a7ce-424764f2a565)
 
 
 SignIn Page
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot (80)](https://github.com/user-attachments/assets/5f91dd83-242c-46da-a754-ca1e727773b9)
+
+Signup Page
+
+![Screenshot (81)](https://github.com/user-attachments/assets/2bb8db4a-4010-4ace-a43a-ebf9e699c1ae)
+
 
 
 Job list
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot (79)](https://github.com/user-attachments/assets/c8b0444a-50b4-463c-bf40-88a2187b16a4)
+
+
 
 Job Detail Page
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot (86)](https://github.com/user-attachments/assets/186eea34-3352-49ee-a45e-7bbc6634ba80)
+
+
 
 User Profile Page
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot (83)](https://github.com/user-attachments/assets/c57b5ef3-1e92-4329-ae41-cce60bc4c5b1)
+
 
 User applyied job list
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot (87)](https://github.com/user-attachments/assets/59873293-cf39-4ace-924c-4cf75f3b9871)
 
-
-Job Apply Page
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 Recuriter signin Page
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot (88)](https://github.com/user-attachments/assets/7479dfa8-881b-4ae7-91cf-bcd5b741c1d3)
 
 
 Recuriter Job posting Page
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot (89)](https://github.com/user-attachments/assets/0673651b-d579-4f0a-9466-54ea3b938c44)
+
+
