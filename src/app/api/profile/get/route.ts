@@ -12,7 +12,7 @@ export const GET = async (req: NextRequest) => {
             return NextResponse.json({ "message": "log in please" }, { status: 404 })
         }
         // console.log(userCookie)
-        const token = jwt.verify(userCookie?.value, "mysecert") as any;
+        const token = jwt.verify(userCookie?.value, "mysecret") as any;
         // console.log(token.id)
         const data = await Profile.find({ userInfo: token?.id })
         // console.log(data[0].appliedJobs)

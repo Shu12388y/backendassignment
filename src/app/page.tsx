@@ -28,7 +28,6 @@ export default function Home() {
       try {
         const response = await axios.get("/api/job/get");
         setData(response.data?.data);
-        console.log(response.data?.data);
       } catch (error) {
         console.log(error);
       }

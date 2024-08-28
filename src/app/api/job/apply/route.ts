@@ -10,7 +10,7 @@ export const POST = async(request:NextRequest)=>{
         const Cookie = cookies()
         const userCookie = Cookie.get('token') as any;
         // console.log(userCookie)
-        const userData = jwt.verify(userCookie.value,"mysecert") as any;
+        const userData = jwt.verify(userCookie.value,"mysecret") as any;
         // console.log(userData)
 
         const userId = userData.id;
