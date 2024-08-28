@@ -13,7 +13,7 @@ DB();
 // Set up multer for file storage
 const storage = multer.diskStorage({
   destination: function (req, file, cb) {
-    const uploadPath = path.join(process.cwd(), 'public');
+    const uploadPath = path.join(process.cwd(), 'upload');
     if (!fs.existsSync(uploadPath)) {
       fs.mkdirSync(uploadPath, { recursive: true });
     }
@@ -49,7 +49,7 @@ export const POST = async (request: NextRequest) => {
      let resumePath = '';
      let profileImagePath = '';
    
-     const uploadDir = path.join(process.cwd(), 'public');
+     const uploadDir = path.join(process.cwd(), 'upload');
      if (!fs.existsSync(uploadDir)) {
        fs.mkdirSync(uploadDir, { recursive: true });
      }
